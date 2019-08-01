@@ -1,2 +1,4 @@
-# MachineLearning-Project-Prediction-
-Prediction Base Project
+# MachineLearning-Project
+
+Testing and Tranning the data and prediction  
+Linear Regration
